@@ -20,8 +20,9 @@
       <RangedWeapon_Cooldown>1.68</RangedWeapon_Cooldown>
     </statBases>
     <costList>
-      <Steel>122</Steel>
-      <ComponentIndustrial>8</ComponentIndustrial>
+      <Chemfuel>3</Chemfuel>
+			<Steel>119</Steel>
+			<ComponentIndustrial>8</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <researchPrerequisite>PrecisionRifling</researchPrerequisite>

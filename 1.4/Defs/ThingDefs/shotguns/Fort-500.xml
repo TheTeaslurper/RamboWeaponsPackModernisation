@@ -20,8 +20,9 @@
       <RangedWeapon_Cooldown>1.27</RangedWeapon_Cooldown>
     </statBases>
     <costList>
-      <Steel>59</Steel>
-      <ComponentIndustrial>3</ComponentIndustrial>
+      <WoodLog>5</WoodLog>
+			<Steel>54</Steel>
+			<ComponentIndustrial>3</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <skillRequirements>

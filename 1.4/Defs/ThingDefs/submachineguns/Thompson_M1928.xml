@@ -20,8 +20,9 @@
       <RangedWeapon_Cooldown>1.09</RangedWeapon_Cooldown>
     </statBases>
     <costList>
-      <Steel>60</Steel>
-      <ComponentIndustrial>4</ComponentIndustrial>
+      <WoodLog>5</WoodLog>
+			<Steel>55</Steel>
+			<ComponentIndustrial>4</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <researchPrerequisite>BlowbackOperation</researchPrerequisite>

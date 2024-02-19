@@ -21,8 +21,9 @@
       <RangedWeapon_Cooldown>1.60</RangedWeapon_Cooldown>
     </statBases>
     <costList>
-      <Steel>89</Steel>
-      <ComponentIndustrial>5</ComponentIndustrial>
+      <WoodLog>5</WoodLog>
+			<Steel>87</Steel>
+			<ComponentIndustrial>5</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <researchPrerequisite>PrecisionRifling</researchPrerequisite>

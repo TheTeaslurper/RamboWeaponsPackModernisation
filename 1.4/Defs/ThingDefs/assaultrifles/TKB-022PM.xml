@@ -23,8 +23,9 @@
       <SocialImpact>-0.05</SocialImpact>
     </equippedStatOffsets>
     <costList>
-      <Steel>87</Steel>
-      <ComponentIndustrial>8</ComponentIndustrial>
+      <Chemfuel>10</Chemfuel>
+			<Steel>70</Steel>
+			<ComponentIndustrial>8</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <researchPrerequisite>PrecisionRifling</researchPrerequisite>

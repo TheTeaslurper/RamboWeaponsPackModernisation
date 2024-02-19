@@ -20,7 +20,8 @@
       <RangedWeapon_Cooldown>1.22</RangedWeapon_Cooldown>
     </statBases>
     <costList>
-      <Steel>100</Steel>
+      <Chemfuel>3</Chemfuel>
+      <Steel>97</Steel>
       <ComponentIndustrial>7</ComponentIndustrial>
     </costList>
     <recipeMaker>

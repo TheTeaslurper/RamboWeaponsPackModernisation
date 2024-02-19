@@ -21,8 +21,8 @@
     </statBases>
     <costList>
       <Chemfuel>5</Chemfuel>
-			<Steel>44</Steel>
-			<ComponentIndustrial>4</ComponentIndustrial>
+      <Steel>44</Steel>
+      <ComponentIndustrial>4</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <researchPrerequisite>BlowbackOperation</researchPrerequisite>

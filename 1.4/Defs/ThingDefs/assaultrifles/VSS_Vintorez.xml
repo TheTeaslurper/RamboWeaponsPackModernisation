@@ -21,9 +21,9 @@
     </statBases>
     <costList>
       <Chemfuel>3</Chemfuel>
-			<WoodLog>2</WoodLog>
-			<Steel>113</Steel>
-			<ComponentIndustrial>10</ComponentIndustrial>
+      <WoodLog>2</WoodLog>
+      <Steel>113</Steel>
+      <ComponentIndustrial>10</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <researchPrerequisite>PrecisionRifling</researchPrerequisite>

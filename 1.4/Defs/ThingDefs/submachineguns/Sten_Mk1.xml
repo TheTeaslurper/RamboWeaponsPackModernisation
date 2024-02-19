@@ -22,8 +22,8 @@
     </statBases>
     <costList>
       <WoodLog>3</WoodLog>
-			<Steel>34</Steel>
-			<ComponentIndustrial>3</ComponentIndustrial>
+      <Steel>34</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <researchPrerequisite>BlowbackOperation</researchPrerequisite>

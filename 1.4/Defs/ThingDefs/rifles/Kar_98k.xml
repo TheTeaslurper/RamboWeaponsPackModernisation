@@ -22,8 +22,8 @@
     </statBases>
     <costList>
       <WoodLog>10</WoodLog>
-			<Steel>48</Steel>
-			<ComponentIndustrial>3</ComponentIndustrial>
+      <Steel>48</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <skillRequirements>

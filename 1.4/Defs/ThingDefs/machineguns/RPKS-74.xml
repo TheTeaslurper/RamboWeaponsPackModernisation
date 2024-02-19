@@ -21,8 +21,8 @@
     </statBases>
     <costList>
       <WoodLog>5</WoodLog>
-			<Steel>163</Steel>
-			<ComponentIndustrial>10</ComponentIndustrial>
+      <Steel>163</Steel>
+      <ComponentIndustrial>10</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <researchPrerequisite>GasOperation</researchPrerequisite>

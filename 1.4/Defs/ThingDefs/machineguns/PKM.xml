@@ -21,8 +21,8 @@
     </statBases>
     <costList>
       <Chemfuel>3</Chemfuel>
-			<Steel>182</Steel>
-			<ComponentIndustrial>12</ComponentIndustrial>
+      <Steel>182</Steel>
+      <ComponentIndustrial>12</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <researchPrerequisite>GasOperation</researchPrerequisite>

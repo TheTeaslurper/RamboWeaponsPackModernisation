@@ -23,7 +23,7 @@
     <costList>
       <WoodLog>10</WoodLog>
 		  <Steel>47</Steel>
-			<ComponentIndustrial>3</ComponentIndustrial>
+      <ComponentIndustrial>3</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <skillRequirements>

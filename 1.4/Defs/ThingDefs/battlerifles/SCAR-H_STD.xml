@@ -22,7 +22,7 @@
     <costList>
       <Chemfuel>3</Chemfuel>
 		  <Steel>119</Steel>
-			<ComponentIndustrial>8</ComponentIndustrial>
+      <ComponentIndustrial>8</ComponentIndustrial>
     </costList>
     <recipeMaker>
       <researchPrerequisite>PrecisionRifling</researchPrerequisite>

@@ -30,7 +30,7 @@
 						<soundCast>Shot_AssaultRifle</soundCast>
 						<soundCastTail>GunTail_Medium</soundCastTail>
 						<muzzleFlashScale>9</muzzleFlashScale>
-					</Properties>
+					</Properties>			
 					<AmmoUser>
 						<magazineSize>30</magazineSize>
 						<reloadTime>4</reloadTime>
@@ -96,10 +96,6 @@
 						<Mass>3.47</Mass>
 						<RangedWeapon_Cooldown>1.59</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>95</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -139,10 +135,6 @@
 						<Mass>3.07</Mass>
 						<RangedWeapon_Cooldown>1.29</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>80</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -182,10 +174,6 @@
 						<Mass>3.40</Mass>
 						<RangedWeapon_Cooldown>1.27</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>82</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -225,10 +213,6 @@
 						<Mass>3.60</Mass>
 						<RangedWeapon_Cooldown>1.27</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>82</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -268,10 +252,6 @@
 						<Mass>3.00</Mass>
 						<RangedWeapon_Cooldown>1.31</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>83</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -311,10 +291,6 @@
 						<Mass>3.40</Mass>
 						<RangedWeapon_Cooldown>1.57</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>83</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -354,10 +330,6 @@
 						<Mass>3.20</Mass>
 						<RangedWeapon_Cooldown>1.61</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>87</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -397,10 +369,6 @@
 						<Mass>3.20</Mass>
 						<RangedWeapon_Cooldown>1.31</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>87</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -440,10 +408,6 @@
 						<Mass>3.10</Mass>
 						<RangedWeapon_Cooldown>1.58</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>86</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -483,10 +447,6 @@
 						<Mass>3.30</Mass>
 						<RangedWeapon_Cooldown>1.61</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>86</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -526,10 +486,6 @@
 						<Mass>3.67</Mass>
 						<RangedWeapon_Cooldown>1.61</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>91</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -569,10 +525,6 @@
 						<Mass>2.97</Mass>
 						<RangedWeapon_Cooldown>1.32</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>91</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -612,10 +564,6 @@
 						<Mass>2.70</Mass>
 						<RangedWeapon_Cooldown>1.19</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>62</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -655,10 +603,6 @@
 						<Mass>3.00</Mass>
 						<RangedWeapon_Cooldown>1.19</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>62</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -698,10 +642,6 @@
 						<Mass>3.85</Mass>
 						<RangedWeapon_Cooldown>0.80</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>90</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -741,10 +681,6 @@
 						<Mass>3.85</Mass>
 						<RangedWeapon_Cooldown>1.20</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>110</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -784,10 +720,6 @@
 						<Mass>6.00</Mass>
 						<RangedWeapon_Cooldown>2.55</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>110</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -827,10 +759,6 @@
 						<Mass>3.60</Mass>
 						<RangedWeapon_Cooldown>1.28</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>85</Steel>
-						<ComponentIndustrial>9</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -870,10 +798,6 @@
 						<Mass>3.30</Mass>
 						<RangedWeapon_Cooldown>1.33</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>82</Steel>
-						<ComponentIndustrial>9</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -913,10 +837,6 @@
 						<Mass>3.20</Mass>
 						<RangedWeapon_Cooldown>1.30</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>80</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -956,10 +876,6 @@
 						<Mass>3.26</Mass>
 						<RangedWeapon_Cooldown>1.30</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>74</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -999,10 +915,6 @@
 						<Mass>3.60</Mass>
 						<RangedWeapon_Cooldown>1.23</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>74</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1042,10 +954,6 @@
 						<Mass>3.39</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>100</Steel>
-						<ComponentIndustrial>9</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1085,10 +993,6 @@
 						<Mass>3.61</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>68</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1129,10 +1033,6 @@
 						<Mass>3.80</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>69</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1173,10 +1073,6 @@
 						<Mass>3.80</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>71</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1217,10 +1113,6 @@
 						<Mass>3.60</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>110</Steel>
-						<ComponentIndustrial>10</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1260,10 +1152,6 @@
 						<Mass>3.63</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>85</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1303,10 +1191,6 @@
 						<Mass>2.82</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>79</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1346,10 +1230,6 @@
 						<Mass>3.30</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>82</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1389,10 +1269,6 @@
 						<Mass>3.95</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>86</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1432,10 +1308,6 @@
 						<Mass>2.95</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>66</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1475,10 +1347,6 @@
 						<Mass>3.75</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>82</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1518,10 +1386,6 @@
 						<Mass>3.02</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>92</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1561,10 +1425,6 @@
 						<Mass>3.49</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>92</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1604,10 +1464,6 @@
 						<Mass>3.50</Mass>
 						<RangedWeapon_Cooldown>0.56</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>80</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1648,10 +1504,6 @@
 						<Mass>3.82</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>80</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1691,10 +1543,6 @@
 						<Mass>3.82</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>72</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1734,10 +1582,6 @@
 						<Mass>3.10</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>72</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1777,10 +1621,6 @@
 						<Mass>2.68</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>79</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1820,10 +1660,6 @@
 						<Mass>3.18</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>78</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1863,10 +1699,6 @@
 						<Mass>3.40</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>78</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1906,10 +1738,6 @@
 						<Mass>3.40</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>81</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1949,10 +1777,6 @@
 						<Mass>4.90</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>70</Steel>
-						<ComponentIndustrial>6</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -1992,10 +1816,6 @@
 						<Mass>2.70</Mass>
 						<RangedWeapon_Cooldown>0.37</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>90</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2035,10 +1855,6 @@
 						<Mass>2.70</Mass>
 						<RangedWeapon_Cooldown>0.37</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>97</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2078,10 +1894,6 @@
 						<Mass>2.91</Mass>
 						<RangedWeapon_Cooldown>0.37</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>90</Steel>
-						<ComponentIndustrial>6</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2121,10 +1933,6 @@
 						<Mass>2.91</Mass>
 						<RangedWeapon_Cooldown>0.37</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>92</Steel>
-						<ComponentIndustrial>6</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2164,10 +1972,6 @@
 						<Mass>3.04</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>94</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2207,10 +2011,6 @@
 						<Mass>3.49</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>105</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2250,10 +2050,6 @@
 						<Mass>3.29</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>100</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2293,10 +2089,6 @@
 						<Mass>4.10</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>83</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2337,10 +2129,6 @@
 						<Mass>3.40</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>82</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2380,10 +2168,6 @@
 						<Mass>3.20</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>79</Steel>
-						<ComponentIndustrial>7</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2423,10 +2207,6 @@
 						<Mass>4.60</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>69</Steel>
-						<ComponentIndustrial>6</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2466,10 +2246,6 @@
 						<Mass>3.18</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>78</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2509,10 +2285,6 @@
 						<Mass>3.27</Mass>
 						<RangedWeapon_Cooldown>0.36</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>80</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2552,10 +2324,6 @@
 						<Mass>2.80</Mass>
 						<RangedWeapon_Cooldown>0.37</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>80</Steel>
-						<ComponentIndustrial>8</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2595,10 +2363,6 @@
 						<Mass>2.60</Mass>
 						<RangedWeapon_Cooldown>0.37</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>118</Steel>
-						<ComponentIndustrial>10</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2639,10 +2403,6 @@
 						<Mass>3.70</Mass>
 						<RangedWeapon_Cooldown>0.37</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>87</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
@@ -2682,10 +2442,6 @@
 						<Mass>3.50</Mass>
 						<RangedWeapon_Cooldown>0.37</RangedWeapon_Cooldown>
 					</statBases>
-					<costList>
-						<Steel>89</Steel>
-						<ComponentIndustrial>5</ComponentIndustrial>
-					</costList>
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>

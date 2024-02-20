@@ -1,19 +1,22 @@
 # RamboWeaponsPack - Modernised
 Update of Rambo Weapons Pack (Continued), based of off Mile's continuation of Masterjamie9 (AAAAA)s mod. 
-https://steamcommunity.com/sharedfiles/filedetails/?id=1125630361
-https://steamcommunity.com/sharedfiles/filedetails/?id=2042712482
+https://steamcommunity.com/sharedfiles/filedetails/?id=1125630361 - Original
+https://steamcommunity.com/sharedfiles/filedetails/?id=2042712482 - Continued
+
+Do you want more guns? A lot more guns? Enough guns to stock a certain armoury or auction house? 
+Are you not content with just knowing that a raider just domed your colonist's favorite dog with a sten gun, but need to know the exact varient that was used in this most henious of crimes?
+Well here you are! An update of Rambo Weapons Pack with changes to weapon receipies and updated CE configs to further increase the authenticity of each of the over 250 different guns now available in the rim. 
 
 This version of the mod has been updated to use the added features of CE such as Bipods as well correct tagging for CE Raider types. 
 As well as extra aspect to differentiate the weapons such as tacking the materials of weapon furniture into account in item recipes with the aim
 to ensure that there are more tangeable advantages and disadvantages to using some weapons over without obivous go to weapons and as few iterations of "same stat block, different texture" as possible.
-
 
 # Compatibility
 This mod modifies vanilla weapons. In the case you have another mod that modifies or removes vanilla weapons, you're going to come across some compatibility issues.
 
 This version of RWP IS compatible and is intended to be used with CE, lets face it if you wanted this many weapon variations you were already using CE. 
 
-#Plans for the future
+# Plans for the future
 
 
 As of current, this mod should be considered as is. I may be updating it but there are no promises.

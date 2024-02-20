@@ -2,7 +2,7 @@
 <Patch>
 	<Operation Class="PatchOperationFindMod">
 		<mods>
-			<li>Rambo Weapons Pack (Continued)</li>
+			<li>Rambo Weapons Pack - Modernised</li>
 		</mods>
 		<match Class="PatchOperationSequence">
 			<operations>

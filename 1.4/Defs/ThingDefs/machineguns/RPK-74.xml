@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_RPK-74_RWP</defName>
     <label>RPK-74</label>
-    <description>.</description>
+    <description>A late industrial magazine fed squad automatic weapon with a bipod for greater firepower when used in an infantry squad.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/rpk-74</texPath>
       <graphicClass>Graphic_Single</graphicClass>

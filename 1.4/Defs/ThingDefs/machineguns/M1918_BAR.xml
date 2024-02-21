@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M1918_BAR_RWP</defName>
     <label>M1918 BAR</label>
-    <description>.</description>
+    <description>A early industrial automatic rifle for suppression fire in a mobile package.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/m1918_bar</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_DP-28_RWP</defName>
     <label>DP-28</label>
-    <description>.</description>
+    <description>A early industrial magazine fed light machine gun with a bipod for suppression fire in a mobile package.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/dp-28</texPath>
       <graphicClass>Graphic_Single</graphicClass>

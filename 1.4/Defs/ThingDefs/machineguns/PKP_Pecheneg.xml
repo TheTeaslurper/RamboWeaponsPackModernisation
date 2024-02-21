@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PKP_Pecheneg_RWP</defName>
     <label>PKP Pecheneg</label>
-    <description>.</description>
+    <description>A late industrial belt fed general purpose machine gun with a bipod for suppression fire in a mobile package.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/pkp_pecheneg</texPath>
       <graphicClass>Graphic_Single</graphicClass>

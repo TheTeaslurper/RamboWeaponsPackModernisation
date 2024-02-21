@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_TT-33_RWP</defName>
     <label>TT-33</label>
-    <description>.</description>
+    <description>A early industrial repeating pistol typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/tt-33</texPath>
       <graphicClass>Graphic_Single</graphicClass>

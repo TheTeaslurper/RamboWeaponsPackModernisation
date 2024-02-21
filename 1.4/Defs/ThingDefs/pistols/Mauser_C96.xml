@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Mauser_C96_RWP</defName>
     <label>Mauser C96</label>
-    <description>.</description>
+    <description>A late industrial repeating pistol typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/mauser_c96</texPath>
       <graphicClass>Graphic_Single</graphicClass>

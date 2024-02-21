@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Glock_26_RWP</defName>
     <label>Glock 26</label>
-    <description>.</description>
+    <description>A late industrial repeating pistol typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/glock_26</texPath>
       <graphicClass>Graphic_Single</graphicClass>

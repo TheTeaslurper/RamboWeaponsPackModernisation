@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_FP-45_Liberator_RWP</defName>
     <label>FP-45 Liberator</label>
-    <description>.</description>
+    <description>A crude industrial single shot pistol typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/fp-45_liberator</texPath>
       <graphicClass>Graphic_Single</graphicClass>

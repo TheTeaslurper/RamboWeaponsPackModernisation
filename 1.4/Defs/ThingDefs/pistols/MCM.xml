@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MCM_RWP</defName>
     <label>Margolin MCM</label>
-    <description>.</description>
+    <description>A early industrial repeating pistol typically carried for target shooting.</description>
     <graphicData>
       <texPath>Things/modern/pistols/mcm_pistol</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Colt_Python_RWP</defName>
     <label>Colt Python</label>
-    <description>.</description>
+    <description>A late industrial revolver typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/colt_python</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MG2R_RWP</defName>
     <label>MG2R</label>
-    <description>.</description>
+    <description>A late industrial repeating pistol typically carried for target shooting.</description>
     <graphicData>
       <texPath>Things/modern/pistols/mg2r</texPath>
       <graphicClass>Graphic_Single</graphicClass>

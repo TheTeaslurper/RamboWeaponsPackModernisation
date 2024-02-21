@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SW_Model_500_RWP</defName>
     <label>S&amp;W Model 500</label>
-    <description>.</description>
+    <description>A late industrial revolver typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/sw_model_500</texPath>
       <graphicClass>Graphic_Single</graphicClass>

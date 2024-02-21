@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Luger_P08_RWP</defName>
     <label>Luger P08</label>
-    <description>.</description>
+    <description>A early industrial repeating pistol typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/luger_p08</texPath>
       <graphicClass>Graphic_Single</graphicClass>

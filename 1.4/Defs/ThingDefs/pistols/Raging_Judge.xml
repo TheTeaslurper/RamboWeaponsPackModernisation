@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Raging_Judge_RWP</defName>
     <label>Raging Judge</label>
-    <description>.</description>
+    <description>A late industrial revolver typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/raging_judge</texPath>
       <graphicClass>Graphic_Single</graphicClass>

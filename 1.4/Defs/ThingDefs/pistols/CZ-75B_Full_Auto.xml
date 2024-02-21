@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_CZ_75B_Full_Auto_RWP</defName>
     <label>CZ 75B Full Auto</label>
-    <description>.</description>
+    <description>A late industrial automatic pistol typically carried for close protection duties.</description>
     <graphicData>
       <texPath>Things/modern/pistols/cz_75b_full_auto</texPath>
       <graphicClass>Graphic_Single</graphicClass>

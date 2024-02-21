@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_De_Lisle_Commando_Carbine_RWP</defName>
     <label>De Lisle Commando Carbine</label>
-    <description>.</description>
+    <description>A early industrial integrally supressed bolt action rifle for special operations.</description>
     <graphicData>
       <texPath>Things/modern/rifles/de_lisle_commando_carbine</texPath>
       <graphicClass>Graphic_Single</graphicClass>

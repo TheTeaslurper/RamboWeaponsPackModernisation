@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_BoltActionRifle</defName>
     <label>Lee Enfield No.4</label>
-    <description>Ancient pattern bolt-action rifle. Good range, good power, low rate of fire.</description>
+    <description>A early industrial bolt action rifle used for everything from hunting to warfighting.</description>
     <graphicData>
       <texPath>Things/Item/Equipment/WeaponRanged/BoltActionRifle</texPath>
       <graphicClass>Graphic_Single</graphicClass>

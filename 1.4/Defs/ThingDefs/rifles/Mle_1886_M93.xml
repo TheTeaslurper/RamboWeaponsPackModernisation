@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Mle_1886_RWP</defName>
     <label>Mle 1886 M93</label>
-    <description>.</description>
+    <description>A early industrial bolt action rifle used for everything from hunting to warfighting.</description>
     <graphicData>
       <texPath>Things/modern/rifles/mle_1886_m93</texPath>
       <graphicClass>Graphic_Single</graphicClass>

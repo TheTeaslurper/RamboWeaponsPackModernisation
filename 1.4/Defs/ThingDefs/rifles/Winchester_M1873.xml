@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Winchester_M1873_RWP</defName>
     <label>Winchester M1873</label>
-    <description>.</description>
+    <description>A early industrial lever action rifle in an intermediate calibre used for everything from hunting to warfighting.</description>
     <graphicData>
       <texPath>Things/modern/rifles/winchester_m1873</texPath>
       <graphicClass>Graphic_Single</graphicClass>

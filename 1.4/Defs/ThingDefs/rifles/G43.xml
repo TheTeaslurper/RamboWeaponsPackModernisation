@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_G43_RWP</defName>
     <label>G43</label>
-    <description>.</description>
+    <description>A early industrial repeating rifle in a full sized rifle calibre typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/rifles/g43</texPath>
       <graphicClass>Graphic_Single</graphicClass>

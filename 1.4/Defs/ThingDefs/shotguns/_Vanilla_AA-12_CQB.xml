@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_ChainShotgun</defName>
     <label>AA-12 CQC</label>
-    <description>.</description>
+    <description>A late industrial automatic combat shotgun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/aa-12_cqc</texPath>
       <graphicClass>Graphic_Single</graphicClass>

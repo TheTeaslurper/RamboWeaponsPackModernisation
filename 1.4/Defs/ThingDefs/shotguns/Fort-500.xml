@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Fort-500_RWP</defName>
     <label>Fort-500</label>
-    <description>.</description>
+    <description>A late industrial pump action combat shotgun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/fort-500</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SKS-45_RWP</defName>
     <label>SKS-45</label>
-    <description>.</description>
+    <description>A late industrial repeating rifle in an intermediate calibre typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/rifles/sks-45</texPath>
       <graphicClass>Graphic_Single</graphicClass>

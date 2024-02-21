@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_L1A1_SLR_RWP</defName>
     <label>L1A1 SLR</label>
-    <description>.</description>
+    <description>A late industrial repeating rifle in a full sized rifle calibre typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/l1a1_slr</texPath>
       <graphicClass>Graphic_Single</graphicClass>

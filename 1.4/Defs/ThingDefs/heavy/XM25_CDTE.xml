@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_XM25_CDTE_RWP</defName>
     <label>XM25 CDTE</label>
-    <description>.</description>
+    <description>A late industrial repeating grenade launcher typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/heavy/xm25_cdte</texPath>
       <graphicClass>Graphic_Single</graphicClass>

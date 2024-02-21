@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_China_Lake_RWP</defName>
     <label>China Lake</label>
-    <description>.</description>
+    <description>A late industrial pump action grenade launcher typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/heavy/china_lake</texPath>
       <graphicClass>Graphic_Single</graphicClass>

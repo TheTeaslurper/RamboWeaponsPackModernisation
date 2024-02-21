@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M1A1_Carbine_RWP</defName>
     <label>M1A1 Carbine</label>
-    <description>.</description>
+    <description>A early industrial repeating rifle in an intermediate calibre typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/rifles/m1a1_carbine</texPath>
       <graphicClass>Graphic_Single</graphicClass>

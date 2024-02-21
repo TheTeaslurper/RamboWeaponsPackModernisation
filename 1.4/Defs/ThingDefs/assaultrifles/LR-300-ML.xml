@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_LR-300-ML_RWP</defName>
     <label>LR-300-ML</label>
-    <description>.</description>
+    <description>A late industrial select fire rifle in an intermediate calibre typically found in use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/lr-300-ml</texPath>
       <graphicClass>Graphic_Single</graphicClass>

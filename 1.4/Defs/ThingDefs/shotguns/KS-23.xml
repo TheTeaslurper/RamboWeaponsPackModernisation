@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_KS-23_RWP</defName>
     <label>KS-23</label>
-    <description>.</description>
+    <description>A late industrial pump action combat shotgun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/ks-23</texPath>
       <graphicClass>Graphic_Single</graphicClass>

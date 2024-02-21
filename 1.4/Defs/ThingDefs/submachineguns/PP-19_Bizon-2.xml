@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PP-19_Bizon-2_RWP</defName>
     <label>PP-19 Bizon-2</label>
-    <description>.</description>
+    <description>A late industrial submachine gun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/pp-19_bizon-2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

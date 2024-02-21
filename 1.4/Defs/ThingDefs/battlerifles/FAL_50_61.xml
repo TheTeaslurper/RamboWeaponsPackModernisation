@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Fal_50_61_RWP</defName>
     <label>Fal 50.61</label>
-    <description>.</description>
+    <description>A late industrial select fire rifle in a full sized rifle calibre typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/fal_50_61</texPath>
       <graphicClass>Graphic_Single</graphicClass>

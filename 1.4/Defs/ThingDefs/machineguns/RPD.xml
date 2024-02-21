@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_RPD_RWP</defName>
     <label>RPD</label>
-    <description>.</description>
+    <description>A late industrial belt fed squad automatic weapon with a bipod for greater firepower when used in an infantry squad.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/rpd</texPath>
       <graphicClass>Graphic_Single</graphicClass>

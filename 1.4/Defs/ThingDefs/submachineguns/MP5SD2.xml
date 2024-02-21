@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5SD2_RWP</defName>
     <label>MP5SD2</label>
-    <description>.</description>
+    <description>A late industrial submachine gun with integral supressor typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5sd2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

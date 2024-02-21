@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_USP45_RWP</defName>
     <label>USP45</label>
-    <description>.</description>
+    <description>A late industrial repeating pistol typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/usp45</texPath>
       <graphicClass>Graphic_Single</graphicClass>

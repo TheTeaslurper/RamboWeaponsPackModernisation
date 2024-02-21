@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Cx4_Storm_RWP</defName>
     <label>Cx4 Storm</label>
-    <description>.</description>
+    <description>A late industrial pistol calibre carbine typically used for sporting purposes.</description>
     <graphicData>
       <texPath>Things/modern/rifles/cx4_storm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

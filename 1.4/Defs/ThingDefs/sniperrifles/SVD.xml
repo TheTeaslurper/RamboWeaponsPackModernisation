@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SVD_RWP</defName>
     <label>SVD</label>
-    <description>.</description>
+    <description>A late industrial semi automatic marksman rifle with a bi-pod typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/svd</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_TRG-41_RWP</defName>
     <label>TRG-41</label>
-    <description>.</description>
+    <description>A late industrial bolt action sniper rifle with a bi-pod typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/trg_41</texPath>
       <graphicClass>Graphic_Single</graphicClass>

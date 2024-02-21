@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M1_Garand_RWP</defName>
     <label>M1 Garand</label>
-    <description>.</description>
+    <description>A early industrial repeating rifle in a full sized rifle calibre typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/rifles/m1_garand</texPath>
       <graphicClass>Graphic_Single</graphicClass>

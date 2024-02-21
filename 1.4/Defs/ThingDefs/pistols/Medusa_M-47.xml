@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Medusa_M-47_RWP</defName>
     <label>Medusa M-47</label>
-    <description>.</description>
+    <description>A late industrial revolver typically carried for self defence capable of using a variety of calibres.</description>
     <graphicData>
       <texPath>Things/modern/pistols/medusa_m-47</texPath>
       <graphicClass>Graphic_Single</graphicClass>

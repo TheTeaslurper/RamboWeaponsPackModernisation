@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PPD-34-38_RWP</defName>
     <label>PPD-34/38</label>
-    <description>.</description>
+    <description>A early industrial submachine gun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/ppd-34-38</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_HK21_RWP</defName>
     <label>HK21</label>
-    <description>.</description>
+    <description>A late industrial belt fed general purpose machine gun with a bipod for suppression fire in a mobile package.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/hk21</texPath>
       <graphicClass>Graphic_Single</graphicClass>

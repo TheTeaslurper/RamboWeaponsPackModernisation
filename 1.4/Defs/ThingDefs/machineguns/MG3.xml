@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MG3_RWP</defName>
     <label>MG3</label>
-    <description>.</description>
+    <description>A late industrial belt fed general purpose machine gun with a bipod for suppression fire in a mobile package.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/mg3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

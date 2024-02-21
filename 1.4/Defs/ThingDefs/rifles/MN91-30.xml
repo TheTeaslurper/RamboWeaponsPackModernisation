@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MN91-30_RWP</defName>
     <label>Mosin Nagant 91/30</label>
-    <description>.</description>
+    <description>A early industrial bolt action rifle used for everything from hunting to warfighting.</description>
     <graphicData>
       <texPath>Things/modern/rifles/mn91-30</texPath>
       <graphicClass>Graphic_Single</graphicClass>

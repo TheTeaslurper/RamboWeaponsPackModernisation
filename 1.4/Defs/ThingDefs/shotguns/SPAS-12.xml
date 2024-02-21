@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SPAS-12_RWP</defName>
     <label>SPAS-12</label>
-    <description>.</description>
+    <description>A late industrial repeating combat shotgun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/spas-12</texPath>
       <graphicClass>Graphic_Single</graphicClass>

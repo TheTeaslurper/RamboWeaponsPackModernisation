@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Browning_Hi-Power_P35_RWP</defName>
     <label>Browning Hi-Power P35</label>
-    <description>.</description>
+    <description>A early industrial repeating pistol typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/browning_hi-power_p35</texPath>
       <graphicClass>Graphic_Single</graphicClass>

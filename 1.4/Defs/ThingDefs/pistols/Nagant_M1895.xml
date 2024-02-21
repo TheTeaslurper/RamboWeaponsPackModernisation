@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Nagant_M1895_RWP</defName>
     <label>Nagant M1895</label>
-    <description>.</description>
+    <description>A early industrial revolver typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/nagant_m1895</texPath>
       <graphicClass>Graphic_Single</graphicClass>

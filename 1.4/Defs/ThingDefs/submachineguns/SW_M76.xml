@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SW_M76_RWP</defName>
     <label>S&amp;W M76</label>
-    <description>.</description>
+    <description>A late industrial submachine gun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/sw_m76</texPath>
       <graphicClass>Graphic_Single</graphicClass>

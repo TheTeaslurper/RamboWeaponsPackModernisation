@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PTRS-41_RWP</defName>
     <label>PTRS-41</label>
-    <description>.</description>
+    <description>A early to mid industrial anti-tank rifle with a bi-pod for penetrating armour of the technology level.</description>
     <graphicData>
       <texPath>Things/modern/amrifles/ptrs-41</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Remington_Model_95_RWP</defName>
     <label>Remington Model 95</label>
-    <description>.</description>
+    <description>A early industrial holdout pistol typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/remington_model_95</texPath>
       <graphicClass>Graphic_Single</graphicClass>

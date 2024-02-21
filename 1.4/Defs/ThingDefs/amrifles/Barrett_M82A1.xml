@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Barret_M82A1_RWP</defName>
     <label>Barrett M82A1</label>
-    <description>.</description>
+    <description>A late industrial anti-material rifle with a bi-pod for penetrating barriers and modern light armour.</description>
     <graphicData>
       <texPath>Things/modern/amrifles/barret_m82a1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

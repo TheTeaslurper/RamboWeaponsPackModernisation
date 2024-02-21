@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_G11_K2_RWP</defName>
     <label>G11 K2</label>
-    <description>.</description>
+    <description>A late industrial select fire rifle in an intermediate calibre typically using caseless ammunition found in use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/g11_k2</texPath>
       <graphicClass>Graphic_Single</graphicClass>

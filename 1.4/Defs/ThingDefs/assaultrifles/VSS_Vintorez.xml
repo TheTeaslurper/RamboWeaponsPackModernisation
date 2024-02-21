@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_VSS_Vintorez_RWP</defName>
     <label>VSS Vintorez</label>
-    <description>.</description>
+    <description>A late industrial select fire rifle in a pistol calibre typically with integral suppressor found in use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/vss_vintorez</texPath>
       <graphicClass>Graphic_Single</graphicClass>

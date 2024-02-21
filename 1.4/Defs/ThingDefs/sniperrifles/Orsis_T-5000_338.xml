@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Orsis_T-5000_338_RWP</defName>
     <label>Orsis T-5000 .338</label>
-    <description>.</description>
+    <description>A late industrial bolt action sniper rifle with a bi-pod typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/orsis_t-5000_338</texPath>
       <graphicClass>Graphic_Single</graphicClass>

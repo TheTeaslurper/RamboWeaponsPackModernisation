@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Welrod_Mk1_RWP</defName>
     <label>Welrod Mk I</label>
-    <description>.</description>
+    <description>A early industrial integrally suppressed pistol with a manual action likely used for assassinations.</description>
     <graphicData>
       <texPath>Things/modern/pistols/welrod_mk1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

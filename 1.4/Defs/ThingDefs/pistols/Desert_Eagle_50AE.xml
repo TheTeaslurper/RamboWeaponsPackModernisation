@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Desert_Eagle_50AE_RWP</defName>
     <label>Desert Eagle .50AE</label>
-    <description>.</description>
+    <description>A late industrial repeating pistol typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/desert_eagle</texPath>
       <graphicClass>Graphic_Single</graphicClass>

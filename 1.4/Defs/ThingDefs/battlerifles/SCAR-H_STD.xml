@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SCAR-H_STD_RWP</defName>
     <label>SCAR-H STD</label>
-    <description>.</description>
+    <description>A late industrial select fire rifle in a full sized rifle calibre typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/scar-h_std</texPath>
       <graphicClass>Graphic_Single</graphicClass>

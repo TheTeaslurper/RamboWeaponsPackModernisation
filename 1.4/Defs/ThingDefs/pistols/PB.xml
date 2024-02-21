@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PB_RWP</defName>
     <label>PB</label>
-    <description>.</description>
+    <description>A late industrial supressed repeating pistol likely used for assassinations.</description>
     <graphicData>
       <texPath>Things/modern/pistols/pb</texPath>
       <graphicClass>Graphic_Single</graphicClass>

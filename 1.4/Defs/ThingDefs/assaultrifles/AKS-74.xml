@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AKS-74_RWP</defName>
     <label>AKS-74</label>
-    <description>.</description>
+    <description>A late industrial select fire rifle in an intermediate calibre typically found in use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/aks-74</texPath>
       <graphicClass>Graphic_Single</graphicClass>

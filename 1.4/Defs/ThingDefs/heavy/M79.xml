@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M79_RWP</defName>
     <label>M79</label>
-    <description>.</description>
+    <description>A late industrial single shot grenade launcher typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/heavy/m79</texPath>
       <graphicClass>Graphic_Single</graphicClass>

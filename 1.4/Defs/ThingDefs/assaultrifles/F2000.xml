@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_F2000_RWP</defName>
     <label>F2000</label>
-    <description>.</description>
+    <description>A late industrial select fire rifle in an intermediate calibre typically found in use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/f2000</texPath>
       <graphicClass>Graphic_Single</graphicClass>

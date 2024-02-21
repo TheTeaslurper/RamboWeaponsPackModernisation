@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PumpShotgun</defName>
     <label>Remington M870 Police Magnum</label>
-    <description>Ancient design. Deadly, but short range.</description>
+    <description>A early industrial pump action combat shotgun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/shotguns/remington_m870_police_magnum</texPath>
       <graphicClass>Graphic_Single</graphicClass>

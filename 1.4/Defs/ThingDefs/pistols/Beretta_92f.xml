@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Beretta_92f_RWP</defName>
     <label>Beretta 92F</label>
-    <description>.</description>
+    <description>A late industrial repeating pistol typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/beretta_92f</texPath>
       <graphicClass>Graphic_Single</graphicClass>

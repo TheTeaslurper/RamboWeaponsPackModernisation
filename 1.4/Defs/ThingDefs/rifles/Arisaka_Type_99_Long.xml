@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Arisaka_Type_99_Long_RWP</defName>
     <label>Arisaka Type 99 Long</label>
-    <description>.</description>
+    <description>A early industrial bolt action rifle used for everything from hunting to warfighting.</description>
     <graphicData>
       <texPath>Things/modern/rifles/arisaka_type_99_long</texPath>
       <graphicClass>Graphic_Single</graphicClass>

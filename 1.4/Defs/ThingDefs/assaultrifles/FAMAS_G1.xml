@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_FAMAS_G1_RWP</defName>
     <label>FAMAS G1</label>
-    <description>.</description>
+    <description>A late industrial select fire rifle in an intermediate calibre with a bi-pod typically found in use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/famas_g1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

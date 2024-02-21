@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Kar_98k_RWP</defName>
     <label>Kar 98k</label>
-    <description>.</description>
+    <description>A early industrial bolt action rifle used for everything from hunting to warfighting.</description>
     <graphicData>
       <texPath>Things/modern/rifles/kar_98k</texPath>
       <graphicClass>Graphic_Single</graphicClass>

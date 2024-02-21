@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SP89_RWP</defName>
     <label>SP89</label>
-    <description>.</description>
+    <description>A late industrial repeating pistol typically carried for self defence.</description>
     <graphicData>
       <texPath>Things/modern/pistols/sp89</texPath>
       <graphicClass>Graphic_Single</graphicClass>

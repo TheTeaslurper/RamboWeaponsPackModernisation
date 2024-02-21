@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MP5K_RWP</defName>
     <label>MP5K</label>
-    <description>.</description>
+    <description>A late industrial submachine gun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mp5k</texPath>
       <graphicClass>Graphic_Single</graphicClass>

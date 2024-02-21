@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MAS-36_RWP</defName>
     <label>MAS-36</label>
-    <description>.</description>
+    <description>A early industrial bolt action rifle used for everything from hunting to warfighting.</description>
     <graphicData>
       <texPath>Things/modern/rifles/mas-36</texPath>
       <graphicClass>Graphic_Single</graphicClass>

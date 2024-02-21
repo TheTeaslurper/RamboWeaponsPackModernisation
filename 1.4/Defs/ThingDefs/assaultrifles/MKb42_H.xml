@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MKb42_H_RWP</defName>
     <label>MKb.42(H)</label>
-    <description>.</description>
+    <description>A early industrial select fire rifle in an intermediate calibre typically found in use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/mkb42_h</texPath>
       <graphicClass>Graphic_Single</graphicClass>

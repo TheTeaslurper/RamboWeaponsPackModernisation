@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Chauchat_Mle_1915_RWP</defName>
     <label>Chauchat Mle 1915</label>
-    <description>.</description>
+    <description>A early industrial magazine fed light machine gun with a bipod for suppression fire in a mobile package.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/chauchat_mle_1915</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Galil_ARM_556mm_RWP</defName>
     <label>Galil ARM 5.56mm</label>
-    <description>.</description>
+    <description>A late industrial automatic rifle with a bipod for greater firepower when used with small teams.</description>
     <graphicData>
       <texPath>Things/modern/machineguns/galil_arm_556mm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_OSV-96_RWP</defName>
     <label>OSV-96</label>
-    <description>.</description>
+    <description>A late industrial anti-material rifle with a bi-pod for penetrating barriers and modern light armour.</description>
     <graphicData>
       <texPath>Things/modern/amrifles/osv-96</texPath>
       <graphicClass>Graphic_Single</graphicClass>

@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Howa_Type_64_RWP</defName>
     <label>Howa Type 64</label>
-    <description>.</description>
+    <description>A late industrial select fire rifle in a full sized rifle calibre with a bi-pod typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/battlerifles/howa_type_64</texPath>
       <graphicClass>Graphic_Single</graphicClass>

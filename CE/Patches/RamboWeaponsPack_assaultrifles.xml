@@ -1728,7 +1728,7 @@
 				</li>
 
 				<li Class="CombatExtended.PatchOperationMakeGunCECompatible">
-					<defName>Gun_M16A2_RWP</defName>
+					<defName>Gun_M16A4_RWP</defName>
 					<statBases>
 						<WorkToMake>45500</WorkToMake>
 						<SightsEfficiency>1</SightsEfficiency>

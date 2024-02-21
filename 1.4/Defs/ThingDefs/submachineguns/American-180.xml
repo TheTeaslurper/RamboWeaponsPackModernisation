@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_American-180_RWP</defName>
     <label>American-180</label>
-    <description>.</description>
+    <description>A early industrial submachine gun typically for recreational use.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/american-180</texPath>
       <graphicClass>Graphic_Single</graphicClass>

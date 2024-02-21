@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PP-91-01_Kedr-B_RWP</defName>
     <label>PP-91-01 Kedr-B</label>
-    <description>.</description>
+    <description>A late industrial Supressed submachine gun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/pp-91-01_kedr-b</texPath>
       <graphicClass>Graphic_Single</graphicClass>

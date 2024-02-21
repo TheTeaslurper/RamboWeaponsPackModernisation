@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_PSG1_RWP</defName>
     <label>PSG1</label>
-    <description>.</description>
+    <description>A late industrial semi automatic sniper rifle with a bi-pod typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/psg1</texPath>
       <graphicClass>Graphic_Single</graphicClass>

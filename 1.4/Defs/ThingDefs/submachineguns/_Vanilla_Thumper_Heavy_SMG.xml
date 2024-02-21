@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_HeavySMG</defName>
     <label>Thumper Heavy SMG</label>
-    <description>A compact, wide-caliber slug-thrower. Very short range, but it packs a punch and handles quite well.</description>
+    <description>A late industrial submachine gun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/thumper_heavy_smg</texPath>
       <graphicClass>Graphic_Single</graphicClass>

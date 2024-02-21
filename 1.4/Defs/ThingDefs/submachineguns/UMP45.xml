@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Thompson_UMP45_RWP</defName>
     <label>UMP45</label>
-    <description>.</description>
+    <description>A late industrial submachine gun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/ump45</texPath>
       <graphicClass>Graphic_Single</graphicClass>

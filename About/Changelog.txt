@@ -1,3 +1,4 @@
 # Changelog for RamboWeaponsPack - Modernised
 
 1.0.0 - Fork and adapt from Rambo Weapons Pack (continued)
+1.1.0 - Added descriptions to Weapons, fixes

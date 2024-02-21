@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Skorpion_SA_Vz61_RWP</defName>
     <label>Skorpion vz.61</label>
-    <description>.</description>
+    <description>A late industrial machine pistol typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/skorpion_vz61</texPath>
       <graphicClass>Graphic_Single</graphicClass>

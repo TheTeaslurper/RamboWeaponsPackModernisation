@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_SVU_RWP</defName>
     <label>SVU</label>
-    <description>.</description>
+    <description>A late industrial semi automatic marksman rifle with a bi-pod and supressor typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/svu</texPath>
       <graphicClass>Graphic_Single</graphicClass>

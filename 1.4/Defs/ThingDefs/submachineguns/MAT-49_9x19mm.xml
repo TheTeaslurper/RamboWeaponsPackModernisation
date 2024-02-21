@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_MAT-49_9x19mm_RWP</defName>
     <label>MAT-49 9x19mm</label>
-    <description>.</description>
+    <description>A early industrial submachine gun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/mat-49_9x19mm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

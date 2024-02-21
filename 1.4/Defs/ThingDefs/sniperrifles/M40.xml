@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_M40_RWP</defName>
     <label>M40</label>
-    <description>.</description>
+    <description>A late industrial bolt action sniper rifle typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/sniperrifles/m40</texPath>
       <graphicClass>Graphic_Single</graphicClass>

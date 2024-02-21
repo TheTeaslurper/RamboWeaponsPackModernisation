@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Sterling_L2A3_RWP</defName>
     <label>Sterling L2A3</label>
-    <description>.</description>
+    <description>A late industrial submachine gun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/sterling_l2a3</texPath>
       <graphicClass>Graphic_Single</graphicClass>

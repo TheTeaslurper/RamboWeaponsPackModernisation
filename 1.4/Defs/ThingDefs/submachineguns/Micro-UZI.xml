@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Micro-UZI_RWP</defName>
     <label>Micro-UZI</label>
-    <description>.</description>
+    <description>A late industrial submachine gun typically found use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/submachineguns/micro-uzi</texPath>
       <graphicClass>Graphic_Single</graphicClass>

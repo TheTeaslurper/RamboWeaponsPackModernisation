@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_AUG_A3_Carbine_RWP</defName>
     <label>AUG A3 Carbine</label>
-    <description>.</description>
+    <description>A late industrial select fire rifle in an intermediate calibre typically found in use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/aug_a3_carbine</texPath>
       <graphicClass>Graphic_Single</graphicClass>

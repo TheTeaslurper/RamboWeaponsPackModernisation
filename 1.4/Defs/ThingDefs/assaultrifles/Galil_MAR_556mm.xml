@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseRamboGun">
     <defName>Gun_Galil_MAR_556mm_RWP</defName>
     <label>Galil MAR 5.56mm</label>
-    <description>.</description>
+    <description>A late industrial select fire rifle in an intermediate calibre typically found in use with various militias and security groups.</description>
     <graphicData>
       <texPath>Things/modern/assaultrifles/galil_mar_556mm</texPath>
       <graphicClass>Graphic_Single</graphicClass>

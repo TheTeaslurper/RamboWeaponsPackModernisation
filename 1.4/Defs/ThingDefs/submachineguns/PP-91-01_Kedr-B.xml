@@ -39,7 +39,7 @@
         <burstShotCount>3</burstShotCount>
         <ticksBetweenBurstShots>4</ticksBetweenBurstShots>
         <soundCast>ShotSuppressedPistol</soundCast>
-        <muzzleFlashScale>7</muzzleFlashScale>
+        <muzzleFlashScale>2</muzzleFlashScale>
       </li>
     </verbs>
     <tools>

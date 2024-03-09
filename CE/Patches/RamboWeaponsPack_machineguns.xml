@@ -29,7 +29,6 @@
 						<range>59</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -75,7 +74,6 @@
 						<range>31</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -121,7 +119,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -167,7 +164,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -213,7 +209,6 @@
 						<range>51</range>
 						<soundCast>Shot_AssaultRifle</soundCast>
 						<soundCastTail>GunTail_Medium</soundCastTail>
-						<muzzleFlashScale>9</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -258,7 +253,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -304,7 +298,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -350,7 +343,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -396,7 +388,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -442,7 +433,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -488,7 +478,6 @@
 						<range>51</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -533,7 +522,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -579,7 +567,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -625,7 +612,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -671,7 +657,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -717,7 +702,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -763,7 +747,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -809,7 +792,6 @@
 						<range>62</range>
 						<soundCast>Shot762x39</soundCast>
 						<soundCastTail>GunTail_Medium</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -855,7 +837,6 @@
 						<range>62</range>
 						<soundCast>Shot762x39</soundCast>
 						<soundCastTail>GunTail_Medium</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -901,7 +882,6 @@
 						<range>75</range>
 						<soundCast>Shot545x39</soundCast>
 						<soundCastTail>GunTail_Medium</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -947,7 +927,6 @@
 						<range>62</range>
 						<soundCast>Shot762x39</soundCast>
 						<soundCastTail>GunTail_Medium</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -993,7 +972,6 @@
 						<range>75</range>
 						<soundCast>Shot545x39</soundCast>
 						<soundCastTail>GunTail_Medium</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -1039,7 +1017,6 @@
 						<range>75</range>
 						<soundCast>Shot_Minigun</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
@@ -1085,7 +1062,6 @@
 						<range>59</range>
 						<soundCast>Shot762x39</soundCast>
 						<soundCastTail>GunTail_Medium</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 						<targetParams>
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>

@@ -30,7 +30,6 @@
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
 						<soundCast>ShotPumpGrenadeLauncher</soundCast>
-						<muzzleFlashScale>14</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>3</magazineSize>
@@ -70,7 +69,6 @@
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
 						<soundCast>InfernoCannon_Fire</soundCast>
-						<muzzleFlashScale>14</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>1</magazineSize>
@@ -111,7 +109,6 @@
 							<canTargetLocations>true</canTargetLocations>
 						</targetParams>
 						<soundCast>InfernoCannon_Fire</soundCast>
-						<muzzleFlashScale>14</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>

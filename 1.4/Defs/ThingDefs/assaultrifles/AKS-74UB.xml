@@ -42,7 +42,7 @@
         <ticksBetweenBurstShots>5</ticksBetweenBurstShots>
         <soundCast>ShotASVal</soundCast>
         <soundCastTail>GunTail_Medium</soundCastTail>
-        <muzzleFlashScale>9</muzzleFlashScale>
+        <muzzleFlashScale>4</muzzleFlashScale>
       </li>
     </verbs>
     <tools>

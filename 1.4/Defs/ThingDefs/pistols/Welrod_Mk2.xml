@@ -32,6 +32,7 @@
         <warmupTime>0.25</warmupTime>
         <range>11</range>
         <soundCast>ShotSuppressedPistol</soundCast>
+        <muzzleFlashScale>1</muzzleFlashScale>
       </li>
     </verbs>
     <weaponTags>

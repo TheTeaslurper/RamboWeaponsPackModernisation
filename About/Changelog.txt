@@ -3,3 +3,4 @@
 1.0.0 - Fork and adapt from Rambo Weapons Pack (continued)
 1.1.0 - Added descriptions to Weapons, fixes
 1.2.0 - Balance changes to Supressors, bugfixes
+1.2.1 - 1.5 ready

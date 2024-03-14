@@ -26,7 +26,6 @@
 						<range>46</range>
 						<soundCast>ShotAMRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>15</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
@@ -62,7 +61,6 @@
 						<range>47</range>
 						<soundCast>ShotAMRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>15</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>
@@ -98,7 +96,6 @@
 						<range>40</range>
 						<soundCast>ShotAMRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>15</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>1</magazineSize>
@@ -135,7 +132,6 @@
 						<range>40</range>
 						<soundCast>ShotAMRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>15</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>

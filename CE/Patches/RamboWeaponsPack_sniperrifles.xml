@@ -26,7 +26,6 @@
 						<range>75</range>
 						<soundCast>Shot_SniperRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>14</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>
@@ -63,7 +62,6 @@
 						<range>75</range>
 						<soundCast>Shot_SniperRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>14</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>
@@ -100,7 +98,6 @@
 						<range>75</range>
 						<soundCast>ShotSemiAutoRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>20</magazineSize>
@@ -136,7 +133,6 @@
 						<range>75</range>
 						<soundCast>Shot_BoltActionRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>
@@ -173,7 +169,6 @@
 						<range>75</range>
 						<soundCast>Shot_SniperRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>14</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>
@@ -210,7 +205,6 @@
 						<range>75</range>
 						<soundCast>ShotSemiAutoRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
@@ -247,7 +241,6 @@
 						<range>48</range>
 						<soundCast>Shot_BoltActionRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
@@ -284,7 +277,6 @@
 						<range>75</range>
 						<soundCast>Shot_BoltActionRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
@@ -321,7 +313,6 @@
 						<range>75</range>
 						<soundCast>ShotSemiAutoRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
@@ -357,7 +348,6 @@
 						<warmupTime>1.5</warmupTime>
 						<range>75</range>
 						<soundCast>ShotSuppressedSniper</soundCast>
-						<muzzleFlashScale>3</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
@@ -394,7 +384,6 @@
 						<range>75</range>
 						<soundCast>Shot_BoltActionRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
@@ -431,7 +420,6 @@
 						<range>75</range>
 						<soundCast>Shot_BoltActionRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
@@ -468,7 +456,6 @@
 						<range>75</range>
 						<soundCast>Shot_SniperRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>14</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>
@@ -505,7 +492,6 @@
 						<range>75</range>
 						<soundCast>Shot_SniperRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>14</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>
@@ -541,7 +527,6 @@
 						<warmupTime>1.9</warmupTime>
 						<range>62</range>
 						<soundCast>ShotSuppressedSniper</soundCast>
-						<muzzleFlashScale>3</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>
@@ -578,7 +563,6 @@
 						<range>68</range>
 						<soundCast>Shot_SniperRifle</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>14</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>6</magazineSize>

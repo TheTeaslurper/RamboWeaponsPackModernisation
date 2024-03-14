@@ -26,7 +26,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>9</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>7</magazineSize>
@@ -61,7 +60,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>15</magazineSize>
@@ -96,7 +94,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>15</magazineSize>
@@ -131,7 +128,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>13</magazineSize>
@@ -166,7 +162,6 @@
 						<range>12</range>
 						<soundCast>Shot_Revolver</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>9</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>6</magazineSize>
@@ -202,7 +197,6 @@
 						<range>12</range>
 						<soundCast>Shot_Revolver</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>9</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>6</magazineSize>
@@ -238,7 +232,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>16</magazineSize>
@@ -276,7 +269,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>20</magazineSize>
@@ -311,7 +303,6 @@
 						<range>12</range>
 						<soundCast>ShotHeavyPistol</soundCast>
 						<soundCastTail>GunTail_Medium</soundCastTail>
-						<muzzleFlashScale>10</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>8</magazineSize>
@@ -346,7 +337,6 @@
 						<range>12</range>
 						<soundCast>ShotHeavyPistol</soundCast>
 						<soundCastTail>GunTail_Medium</soundCastTail>
-						<muzzleFlashScale>11</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>7</magazineSize>
@@ -381,7 +371,6 @@
 						<range>12</range>
 						<soundCast>ShotHeavyPistol</soundCast>
 						<soundCastTail>GunTail_Medium</soundCastTail>
-						<muzzleFlashScale>9</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>9</magazineSize>
@@ -416,7 +405,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>12</magazineSize>
@@ -451,7 +439,6 @@
 						<range>6</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>9</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>1</magazineSize>
@@ -486,7 +473,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>17</magazineSize>
@@ -521,7 +507,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>17</magazineSize>
@@ -559,7 +544,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>33</magazineSize>
@@ -596,7 +580,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>15</magazineSize>
@@ -631,7 +614,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
@@ -666,7 +648,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>16</magazineSize>
@@ -701,7 +682,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>8</magazineSize>
@@ -736,7 +716,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>6</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
@@ -771,7 +750,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>5</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
@@ -806,7 +784,6 @@
 						<range>12</range>
 						<soundCast>Shot_Revolver</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>9</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>6</magazineSize>
@@ -842,7 +819,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>5</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>
@@ -877,7 +853,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>18</magazineSize>
@@ -912,7 +887,6 @@
 						<range>12</range>
 						<soundCast>ShotHeavyPistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>9</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>7</magazineSize>
@@ -948,7 +922,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>8</magazineSize>
@@ -983,7 +956,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>8</magazineSize>
@@ -1018,7 +990,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>5</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>
@@ -1052,7 +1023,6 @@
 						<warmupTime>0.6</warmupTime>
 						<range>12</range>
 						<soundCast>ShotSuppressedPistol</soundCast>
-						<muzzleFlashScale>3</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>8</magazineSize>
@@ -1087,7 +1057,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>8</magazineSize>
@@ -1122,7 +1091,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>12</magazineSize>
@@ -1157,7 +1125,6 @@
 						<range>12</range>
 						<soundCast>Shot_Revolver</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>6</magazineSize>
@@ -1193,7 +1160,6 @@
 						<range>6</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>5</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>2</magazineSize>
@@ -1228,7 +1194,6 @@
 						<range>12</range>
 						<soundCast>Shot_MachinePistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>15</magazineSize>
@@ -1263,7 +1228,6 @@
 						<range>12</range>
 						<soundCast>Shot_Revolver</soundCast>
 						<soundCastTail>GunTail_Heavy</soundCastTail>
-						<muzzleFlashScale>12</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>5</magazineSize>
@@ -1298,7 +1262,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>32</magazineSize>
@@ -1333,7 +1296,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>6</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>8</magazineSize>
@@ -1368,7 +1330,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>15</magazineSize>
@@ -1403,7 +1364,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>9</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>12</magazineSize>
@@ -1438,7 +1398,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>20</magazineSize>
@@ -1473,7 +1432,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>7</magazineSize>
@@ -1508,7 +1466,6 @@
 						<range>12</range>
 						<soundCast>Shot_Autopistol</soundCast>
 						<soundCastTail>GunTail_Light</soundCastTail>
-						<muzzleFlashScale>7</muzzleFlashScale>
 					</Properties>
 					<AmmoUser>
 						<magazineSize>6</magazineSize>

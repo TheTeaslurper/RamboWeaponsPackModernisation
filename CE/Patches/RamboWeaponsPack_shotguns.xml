@@ -757,6 +757,74 @@
 					</weaponTags>
 				</li>
 
+				<li Class="CombatExtended.PatchOperationMakeGunCECompatible">
+					<defName>Gun_Auto_and_Burglar_ModelA_RWP</defName>
+					<statBases>
+						<WorkToMake>12000</WorkToMake>
+						<SightsEfficiency>0.5</SightsEfficiency>
+						<ShotSpread>0.19</ShotSpread>
+						<SwayFactor>0.61</SwayFactor>
+						<Bulk>4.06</Bulk>
+						<Mass>2.00</Mass>
+						<RangedWeapon_Cooldown>0.40</RangedWeapon_Cooldown>
+					</statBases>
+					<Properties>
+						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
+						<hasStandardCommand>True</hasStandardCommand>
+						<defaultProjectile>Bullet_20Gauge_Buck</defaultProjectile>
+						<warmupTime>0.6</warmupTime>
+						<range>12</range>
+						<soundCast>ShotAutoShotgun</soundCast>
+						<soundCastTail>GunTail_Heavy</soundCastTail>
+					</Properties>
+					<AmmoUser>
+						<magazineSize>2</magazineSize>
+						<reloadTime>1.7</reloadTime>
+						<ammoSet>AmmoSet_20Gauge</ammoSet>
+					</AmmoUser>
+					<FireModes>
+						<aiAimMode>Snapshot</aiAimMode>
+					</FireModes>
+					<weaponTags>
+						<li>CE_AI_BROOM</li>
+						<li>CE_Sidearm</li>
+						<li>CE_OneHandedWeapon</li>
+					</weaponTags>
+				</li>
+
+				<li Class="CombatExtended.PatchOperationMakeGunCECompatible">
+					<defName>Gun_TOZ_106_RWP</defName>
+					<statBases>
+						<WorkToMake>15450</WorkToMake>
+						<SightsEfficiency>1</SightsEfficiency>
+						<ShotSpread>0.11</ShotSpread>
+						<SwayFactor>1.06</SwayFactor>
+						<Bulk>5.30</Bulk>
+						<Mass>2.50</Mass>
+						<RangedWeapon_Cooldown>1.19</RangedWeapon_Cooldown>
+					</statBases>
+					<Properties>
+						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
+						<hasStandardCommand>True</hasStandardCommand>
+						<defaultProjectile>Bullet_20Gauge_Buck</defaultProjectile>
+						<warmupTime>0.6</warmupTime>
+						<range>12</range>
+						<soundCast>Shot_Shotgun</soundCast>
+						<soundCastTail>GunTail_Heavy</soundCastTail>
+					</Properties>
+					<AmmoUser>
+						<magazineSize>4</magazineSize>
+						<reloadTime>4</reloadTime>
+						<ammoSet>AmmoSet_20Gauge</ammoSet>
+					</AmmoUser>
+					<FireModes>
+						<aiAimMode>Snapshot</aiAimMode>
+					</FireModes>
+					<weaponTags>
+						<li>CE_AI_BROOM</li>
+					</weaponTags>
+				</li>
+
 			</operations>
 		</match>
 	</Operation>

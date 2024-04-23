@@ -601,6 +601,21 @@
     </projectile>
   </ThingDef>
   <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_20_Gauge_Buckshot_RWP</defName>
+    <label>20 Gauge buckshot blast</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Shotgun</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>15</damageAmountBase>
+      <stoppingPower>2</stoppingPower>
+      <armorPenetrationBase>0.14</armorPenetrationBase>
+      <speed>88</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
     <defName>Bullet_23x74mmR_RWP</defName>
     <label>23x74mmR slug</label>
     <graphicData>

@@ -64,8 +64,8 @@ rifle:
 - mas-49
 
 shotguns:
-- auto_and_burglar_modela
-- toz-106
+- auto_and_burglar_modela - DONE
+- toz-106 - DONE
 
 sniperrifles:
 - cheytac_m200_intervention

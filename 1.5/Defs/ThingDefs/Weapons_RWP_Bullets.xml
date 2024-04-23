@@ -432,6 +432,19 @@
     </projectile>
   </ThingDef>
   <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_4570Gov_RWP</defName>
+    <label>.45-70 Government bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>14</damageAmountBase>
+      <speed>85</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
     <defName>Bullet_303_British_RWP</defName>
     <label>.303 British Bullet</label>
     <graphicData>
@@ -626,6 +639,20 @@
       <damageDef>Bullet</damageDef>
       <damageAmountBase>30</damageAmountBase>
       <stoppingPower>3</stoppingPower>
+      <speed>88</speed>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_2_Bore_RWP</defName>
+    <label>2 Bore slug</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Big</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>30</damageAmountBase>
+      <stoppingPower>5</stoppingPower>
       <speed>88</speed>
     </projectile>
   </ThingDef>

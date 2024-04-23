@@ -59,7 +59,7 @@ pistol:
 - ucp
 
 rifle:
-- double_deuce
+- double_deuce - DONES
 - marlin_model_1895_trapper
 - mas-49
 

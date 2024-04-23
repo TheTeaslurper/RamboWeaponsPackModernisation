@@ -542,6 +542,8 @@
 						<ammoSet>AmmoSet_12Gauge</ammoSet>
 					</AmmoUser>
 					<FireModes>
+						<aiUseBurstMode>TRUE</aiUseBurstMode>
+						<aimedBurstShotCount>2</aimedBurstShotCount>
 						<aiAimMode>Snapshot</aiAimMode>
 					</FireModes>
 					<weaponTags>
@@ -616,6 +618,8 @@
 						<ammoSet>AmmoSet_12Gauge</ammoSet>
 					</AmmoUser>
 					<FireModes>
+						<aiUseBurstMode>TRUE</aiUseBurstMode>
+						<aimedBurstShotCount>2</aimedBurstShotCount>
 						<aiAimMode>Snapshot</aiAimMode>
 					</FireModes>
 					<weaponTags>
@@ -771,7 +775,10 @@
 					<Properties>
 						<verbClass>CombatExtended.Verb_ShootCE</verbClass>
 						<hasStandardCommand>True</hasStandardCommand>
+						<recoilAmount>0.75</recoilAmount>
 						<defaultProjectile>Bullet_20Gauge_Buck</defaultProjectile>
+						<burstShotCount>2</burstShotCount>
+						<ticksBetweenBurstShots>0</ticksBetweenBurstShots>
 						<warmupTime>0.6</warmupTime>
 						<range>12</range>
 						<soundCast>ShotAutoShotgun</soundCast>
@@ -783,6 +790,8 @@
 						<ammoSet>AmmoSet_20Gauge</ammoSet>
 					</AmmoUser>
 					<FireModes>
+						<aiUseBurstMode>TRUE</aiUseBurstMode>
+						<aimedBurstShotCount>2</aimedBurstShotCount>
 						<aiAimMode>Snapshot</aiAimMode>
 					</FireModes>
 					<weaponTags>
@@ -793,7 +802,7 @@
 				</li>
 
 				<li Class="CombatExtended.PatchOperationMakeGunCECompatible">
-					<defName>Gun_TOZ_106_RWP</defName>
+					<defName>Gun_TOZ-106_RWP</defName>
 					<statBases>
 						<WorkToMake>15450</WorkToMake>
 						<SightsEfficiency>1</SightsEfficiency>

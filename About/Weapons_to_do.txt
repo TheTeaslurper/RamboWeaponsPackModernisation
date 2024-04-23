@@ -1,0 +1,79 @@
+Weapons to do:
+AMRs:
+- aw50
+- aw50f
+- boys_at_rifle_mk1
+- gepard_m1
+- hecate_ii
+- mauser_1918_t-gewehr
+- ntw-20
+- rt-20
+
+ARs:
+- qbz-85
+
+MGs:
+- 6p62
+- Kord_6p57
+- lwmmg
+
+Heavy:
+- barret_xm109
+- carl_gustav_m3
+- fliegerfaust_b
+- hawk_mm-1
+- hk69a1
+- hk269
+- m1_bazooka
+- m1a1_bazooka
+- m9_bazooka
+- m202_flash
+- milkor_mgl_mk_1
+- milkor_mgl_mk_1s
+- mk13_eglm
+- norinco_lg6
+- paw-20
+- piat
+- qlz-87
+- rg-6
+- rgm-40
+- rpg-7
+- rpg-7v
+- rpg-28_klyukva
+- rpo-a_shmel
+- rpzb_43
+- rpzb_54
+- type_89_grenade_discharger
+- xm25_cdte
+
+pistol:
+- defense_distributed_liberator
+- five-seven
+- gyrojet_pistol_mark1_modelb
+- my_friend_model_1
+- pfeifer_zeliska
+- rsh-12
+- sharps_pepperbox
+- triple_action_thunder
+- ttk_esaul
+- ucp
+
+rifle:
+- double_deuce
+- marlin_model_1895_trapper
+- mas-49
+
+shotguns:
+- auto_and_burglar_modela
+- toz-106
+
+sniperrifles:
+- cheytac_m200_intervention
+- fat_mac
+
+
+
+
+
+
+

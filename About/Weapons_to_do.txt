@@ -59,9 +59,9 @@ pistol:
 - ucp
 
 rifle:
-- double_deuce - DONES
-- marlin_model_1895_trapper
-- mas-49
+- double_deuce - DONE
+- marlin_model_1895_trapper - DONE
+- mas-49 - DONE
 
 shotguns:
 - auto_and_burglar_modela - DONE

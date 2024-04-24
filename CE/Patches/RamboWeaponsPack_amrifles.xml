@@ -78,7 +78,7 @@
 				</li>
 
 				<li Class="CombatExtended.PatchOperationMakeGunCECompatible">
-					<defName>Gun_PTRS-41_RWP</defName>
+					<defName>Gun_PTRD-41_RWP</defName>
 					<statBases>
 						<WorkToMake>72000</WorkToMake>
 						<SightsEfficiency>1</SightsEfficiency>
@@ -114,7 +114,7 @@
 				</li>
 
 				<li Class="CombatExtended.PatchOperationMakeGunCECompatible">
-					<defName>Gun_PTRD-41_RWP</defName>
+					<defName>Gun_PTRS-41_RWP</defName>
 					<statBases>
 						<WorkToMake>68000</WorkToMake>
 						<SightsEfficiency>1</SightsEfficiency>

@@ -33,8 +33,9 @@
 					</Properties>
 					<AmmoUser>
 						<magazineSize>3</magazineSize>
-						<reloadTime>6.00</reloadTime>
+						<reloadTime>2</reloadTime>
 						<ammoSet>AmmoSet_40x46mmGrenade</ammoSet>
+						<reloadOneAtATime>True</reloadOneAtATime>
 					</AmmoUser>
 					<FireModes>
 						<aiUseBurstMode>FALSE</aiUseBurstMode>

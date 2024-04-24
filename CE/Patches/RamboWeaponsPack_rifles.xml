@@ -408,8 +408,9 @@
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
-						<reloadTime>8.5</reloadTime>
+						<reloadTime>1</reloadTime>
 						<ammoSet>AmmoSet_8x50mmRLebel</ammoSet>
+						<reloadOneAtATime>True</reloadOneAtATime>
 					</AmmoUser>
 					<FireModes>
 						<aiAimMode>AimedShot</aiAimMode>
@@ -633,8 +634,9 @@
 					</Properties>
 					<AmmoUser>
 						<magazineSize>15</magazineSize>
-						<reloadTime>12.75</reloadTime>
+						<reloadTime>0.85</reloadTime>
 						<ammoSet>AmmoSet_44-40Winchester</ammoSet>
+						<reloadOneAtATime>True</reloadOneAtATime>
 					</AmmoUser>
 					<FireModes>
 						<aiAimMode>AimedShot</aiAimMode>
@@ -663,8 +665,9 @@
 					</Properties>
 					<AmmoUser>
 						<magazineSize>10</magazineSize>
-						<reloadTime>8.2</reloadTime>
+						<reloadTime>0.85</reloadTime>
 						<ammoSet>AmmoSet_4570Gov</ammoSet>
+						<reloadOneAtATime>True</reloadOneAtATime>
 					</AmmoUser>
 					<FireModes>
 						<aiAimMode>AimedShot</aiAimMode>
@@ -696,8 +699,9 @@
 					</Properties>
 					<AmmoUser>
 						<magazineSize>2</magazineSize>
-						<reloadTime>2.2</reloadTime>
+						<reloadTime>1</reloadTime>
 						<ammoSet>AmmoSet_2Bore</ammoSet>
+						<reloadOneAtATime>True</reloadOneAtATime>
 					</AmmoUser>
 					<FireModes>
 						<aiAimMode>AimedShot</aiAimMode>

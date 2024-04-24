@@ -890,8 +890,9 @@
 					</Properties>
 					<AmmoUser>
 						<magazineSize>7</magazineSize>
-						<reloadTime>5.95</reloadTime>
+						<reloadTime>0.85</reloadTime>
 						<ammoSet>AmmoSet_762x38mmR</ammoSet>
+						<reloadOneAtATime>True</reloadOneAtATime>
 					</AmmoUser>
 					<FireModes />
 					<weaponTags>
@@ -1163,8 +1164,9 @@
 					</Properties>
 					<AmmoUser>
 						<magazineSize>2</magazineSize>
-						<reloadTime>1.6</reloadTime>
+						<reloadTime>0.8</reloadTime>
 						<ammoSet>AmmoSet_41Rimfire</ammoSet>
+						<reloadOneAtATime>True</reloadOneAtATime>
 					</AmmoUser>
 					<FireModes />
 					<weaponTags>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseRamboGun">
+    <defName>Gun_Auto_and_Burglar_ModelA_RWP</defName>
+    <label>Auto &amp; Burglar Model A</label>
+    <description>A early industrial double barreled shotgun pistol normally used for home and personal defence.</description>
+    <graphicData>
+      <texPath>Things/modern/shotguns/auto_and_burglar_modela</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Shotgun</soundInteract>
+    <statBases>
+      <WorkToMake>12000</WorkToMake>
+      <MarketValue>140</MarketValue>
+      <Mass>1.8</Mass>
+      <AccuracyTouch>0.80</AccuracyTouch>
+      <AccuracyShort>0.42</AccuracyShort>
+      <AccuracyMedium>0.19</AccuracyMedium>
+      <AccuracyLong>0.07</AccuracyLong>
+      <RangedWeapon_Cooldown>2.73</RangedWeapon_Cooldown>
+    </statBases>
+    <costList>
+      <WoodLog>3</WoodLog>
+      <Steel>27</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <recipeMaker>
+      <skillRequirements>
+        <Crafting>3</Crafting>
+      </skillRequirements>
+    </recipeMaker>
+    <generateCommonality>2.0</generateCommonality>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_20_Gauge_Buckshot_RWP</defaultProjectile>
+        <warmupTime>00.34</warmupTime>
+        <range>9</range>
+        <burstShotCount>2</burstShotCount>
+        <ticksBetweenBurstShots>1</ticksBetweenBurstShots>
+        <soundCast>ShotAutoShotgun</soundCast>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <muzzleFlashScale>12</muzzleFlashScale>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+        <label>grip</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>1.8</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>1.9</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+</Defs>
